@@ -1,0 +1,16 @@
+{
+    "name": "adj/xs-router",
+    "description": "Very simple PHP Router (with MVC)",
+    "authors": [
+        {
+            "name": "Aleksandar Djurka",
+            "email": "djurkaaleksandar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\": "app/Modules"
+        }
+    },
+    "require": {}
+}
